@@ -28,7 +28,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="4fe392c2-ae1b-48be-ac62-8f8f8fa1919e">
-      <console name="Local instance MySQL80" type="STANDARD" schema="" session="Main" />
+      <console name="Local instance MySQL80" type="STANDARD" schema="" session="Main"><![CDATA[root]]></console>
     </connection>
     <connection id="16cd3deb-0413-4a91-bbb9-02b38389866b">
       <console name="Local instance MySQL80" type="STANDARD" schema="" session="Main" />
@@ -80,9 +80,9 @@
           <description value="" />
           <database-type value="MYSQL" />
           <config-type value="BASIC" />
-          <database-version value="9999.0" />
+          <database-version value="8.0" />
           <driver-source value="EXTERNAL" />
-          <driver-library value="C:\Users\eduar\IdeaProjects\KATA_preProject\PP_1_1_3-4_JDBC_Hibernate\Libs\mysql-connector-java-8.0.27.jar" />
+          <driver-library value="C:\Users\eduar\IdeaProjects\KATA_preProject\PP_1_1_3-4_JDBC_Hibernate\src\Lib\mysql-connector-java-8.0.28.jar" />
           <driver value="com.mysql.cj.jdbc.Driver" />
           <url-type value="DATABASE" />
           <host value="localhost" />
